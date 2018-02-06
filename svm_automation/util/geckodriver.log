@@ -1,0 +1,59 @@
+1515497688411	geckodriver	INFO	geckodriver 0.19.1
+1515497688427	geckodriver	INFO	Listening on 127.0.0.1:55198
+1515497689656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UpDwEcct4J1s"
+1515497690392	Marionette	INFO	Enabled via --marionette
+1515497692942	Marionette	INFO	Listening on port 44657
+1515497692971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515497693147	Marionette	DEBUG	Register listener.js for window 2147483649
+1515497693174	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515497694177	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515497694177	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515497695139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uat.app.flexerasoftware.com/login/"
+1515497695164	Marionette	DEBUG	Received DOM event "pageshow" for "https://uat.app.flexerasoftware.com/login/"
+1515497695373	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uat.app.flexerasoftware.com/login/"
+1515497697398	Marionette	DEBUG	Received DOM event "pagehide" for "https://uat.app.flexerasoftware.com/login/"
+1515497697398	Marionette	DEBUG	Received DOM event "unload" for "https://uat.app.flexerasoftware.com/login/"
+1515497699445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uat.app.flexerasoftware.com/"
+1515497699454	Marionette	DEBUG	Received DOM event "pageshow" for "https://uat.app.flexerasoftware.com/"
+1515497709520	Marionette	DEBUG	Received DOM event "popstate" for "https://uat.app.flexerasoftware.com/#/notifications/"
+1515497709723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515497719605	Marionette	DEBUG	Received DOM event "popstate" for "https://uat.app.flexerasoftware.com/#/vm/"
+1515497719809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515506540409	geckodriver	INFO	geckodriver 0.19.1
+1515506540423	geckodriver	INFO	Listening on 127.0.0.1:43223
+1515506541623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lGRbHgoPT8UN"
+1515506542895	Marionette	INFO	Enabled via --marionette
+1515506546881	Marionette	INFO	Listening on port 37630
+1515506546966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515506547180	Marionette	DEBUG	Register listener.js for window 2147483649
+1515506547216	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515506547756	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515506547756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515506548836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uat.app.flexerasoftware.com/login/"
+1515506548866	Marionette	DEBUG	Received DOM event "pageshow" for "https://uat.app.flexerasoftware.com/login/"
+1515506548996	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uat.app.flexerasoftware.com/login/"
+1515506554209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515506564270	Marionette	DEBUG	Received DOM event "popstate" for "https://uat.app.flexerasoftware.com/#/notifications/"
+1515506564472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515506574369	Marionette	DEBUG	Received DOM event "popstate" for "https://uat.app.flexerasoftware.com/#/vm/"
+1515506574572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515507198950	geckodriver	INFO	geckodriver 0.19.1
+1515507198955	geckodriver	INFO	Listening on 127.0.0.1:37720
+1515507200179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vHhUNZEMRFwK"
+1515507200922	Marionette	INFO	Enabled via --marionette
+1515507203262	Marionette	INFO	Listening on port 44265
+1515507203308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515507203419	Marionette	DEBUG	Register listener.js for window 2147483649
+1515507203443	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515507204270	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515507204270	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515507205219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uat.app.flexerasoftware.com/login/"
+1515507205256	Marionette	DEBUG	Received DOM event "pageshow" for "https://uat.app.flexerasoftware.com/login/"
+1515507205380	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uat.app.flexerasoftware.com/login/"
+1515507210591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515507220648	Marionette	DEBUG	Received DOM event "popstate" for "https://uat.app.flexerasoftware.com/#/notifications/"
+1515507220849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515507230747	Marionette	DEBUG	Received DOM event "popstate" for "https://uat.app.flexerasoftware.com/#/vm/"
+1515507230950	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
