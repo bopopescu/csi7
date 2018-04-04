@@ -34,7 +34,7 @@ class TestExecution(TestCase):
 
 if __name__=='__main__':
     TestExecution.test_AdownloadLocalAgent(None)
-    TestExecution.test_CheckUser(None)
+#     TestExecution.test_CheckUser(None)
 
 
 
