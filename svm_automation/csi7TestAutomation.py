@@ -25,7 +25,7 @@ class TestExecution(TestCase):
         l1 = Login()
         f1 = features()
         fourth = l1.test_login('default','Secunia1')
-        fifth = f1.createUser('testUser20','RWUser')
+#         fifth = f1.createUser('testUser20','RWUser')
         sixth=l1.test_logout()
         seventh=l1.test_login('testUser2','Secunia1')
         Eight = f1.checkUser('RWUser','testUser2')
